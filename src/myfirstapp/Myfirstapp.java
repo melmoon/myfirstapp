@@ -19,6 +19,8 @@ public class Myfirstapp {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("my name is Phakamat Jadprem");
+        System.out.println("Information Technology and english");
+        System.out.println("University of Phayao");
     }
     
 }
